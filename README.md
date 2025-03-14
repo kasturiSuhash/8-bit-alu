@@ -32,17 +32,9 @@ This project implements an 8-bit Arithmetic Logic Unit (ALU) in Verilog. The ALU
 ## How to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/8-bit-alu.git
+   git clone https://github.com/kasturiSuhash/8-bit-alu.git
    cd 8-bit-alu
    ```
-2. Run the simulation using Icarus Verilog:
-   ```sh
-   iverilog -o alu_tb alu_tb.v alu.v
-   vvp alu_tb
-   ```
-3. View the waveform using GTKWave:
-   ```sh
-   gtkwave alu_waveform.vcd
-   ```
+   
 
 
