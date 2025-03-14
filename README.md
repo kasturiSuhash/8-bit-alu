@@ -45,6 +45,4 @@ This project implements an 8-bit Arithmetic Logic Unit (ALU) in Verilog. The ALU
    gtkwave alu_waveform.vcd
    ```
 
-## License
-This project is open-source and available under the MIT License.
 
